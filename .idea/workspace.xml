@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e3c5d78-0c74-4413-bb8d-f9ffe8aa76d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demoxjy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/eurekaclient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/xjy/EurekaClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/java/com/xjy/controller/DemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/target/classes/com/xjy/EurekaClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-client/target/classes/com/xjy/controller/DemoController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/eurekaribbonclient.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/xjy/EurekaRibbonClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/xjy/config/RibbonConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/xjy/controller/RibbonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/xjy/service/RibbonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/target/classes/com/xjy/EurekaRibbonClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/target/classes/com/xjy/config/RibbonConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/target/classes/com/xjy/controller/RibbonController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-ribbon-client/target/classes/com/xjy/service/RibbonService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/eurekaserver.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/java/com/xjy/EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/target/classes/com/xjy/EurekaServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5e3c5d78-0c74-4413-bb8d-f9ffe8aa76d1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/euraka-server/target/" />
