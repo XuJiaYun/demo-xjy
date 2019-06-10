@@ -16,7 +16,7 @@ public class RibbonController {
     RibbonService ribbonService;
 
     @RequestMapping("/hello")
-    public String hello(@RequestParam(defaultValue = "xjy") String name){
+    public String hello(@RequestParam(value = "name",defaultValue = "xjy") String name){
         return ribbonService.hello(name);
     }
 

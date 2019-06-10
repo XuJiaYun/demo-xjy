@@ -13,7 +13,7 @@ public class DemoController {
     String port;
 
     @RequestMapping("/hello")
-    public String test(@RequestParam String name){
+    public String test(@RequestParam(value = "name",defaultValue = "xjy") String name){
         return "hello "+name+",I'm from"+port;
     }
 
