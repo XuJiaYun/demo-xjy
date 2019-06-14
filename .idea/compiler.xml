@@ -6,21 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="configclient" />
-        <module name="configserver" />
-        <module name="eureka-client" />
-        <module name="eureka-feign-client" />
-        <module name="eureka-monitior-client" />
-        <module name="eureka-ribbon-client" />
-        <module name="eureka-server" />
-        <module name="eurekafeignclient" />
         <module name="eurekamonitiorclient" />
+        <module name="config-server" />
+        <module name="config-client" />
+        <module name="userservice" />
+        <module name="eureka-feign-client" />
+        <module name="eureka-zuul-client" />
+        <module name="zipkinserver" />
+        <module name="eureka-client" />
+        <module name="eureka-ribbon-client" />
+        <module name="gatewayservice" />
+        <module name="configclient" />
+        <module name="eureka-server" />
+        <module name="eureka-monitior-client" />
         <module name="eurekaribbonclient" />
+        <module name="configserver" />
+        <module name="eurekafeignclient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eurakaclient" target="1.8" />
       <module name="eurekaserver" target="1.8" />
+      <module name="eurekazuulclient" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

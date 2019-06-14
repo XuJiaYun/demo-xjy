@@ -16,6 +16,9 @@
         <module>eureka-monitior-client</module>
         <module>config-server</module>
         <module>config-client</module>
+        <module>zipkin-server</module>
+        <module>user-service</module>
+        <module>gateway-service</module>
     </modules>
 
     <parent>
