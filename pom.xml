@@ -19,6 +19,10 @@
         <module>zipkin-server</module>
         <module>user-service</module>
         <module>gateway-service</module>
+        <module>admin-server</module>
+        <module>admin-client</module>
+        <module>eureka-client-two</module>
+        <module>turbine-service</module>
     </modules>
 
     <parent>

@@ -8,8 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eurekamonitiorclient" />
         <module name="config-server" />
-        <module name="config-client" />
+        <module name="turbineservice" />
         <module name="userservice" />
+        <module name="eurekaribbonclient" />
         <module name="eureka-feign-client" />
         <module name="eureka-zuul-client" />
         <module name="zipkinserver" />
@@ -18,8 +19,11 @@
         <module name="gatewayservice" />
         <module name="configclient" />
         <module name="eureka-server" />
+        <module name="config-client" />
+        <module name="eurekaclienttwo" />
         <module name="eureka-monitior-client" />
-        <module name="eurekaribbonclient" />
+        <module name="adminserver" />
+        <module name="adminclient" />
         <module name="configserver" />
         <module name="eurekafeignclient" />
       </profile>
