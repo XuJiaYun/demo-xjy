@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e3c5d78-0c74-4413-bb8d-f9ffe8aa76d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/admin-server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-server/src/main/java/com/xjy/component/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/admin-server/src/main/java/com/xjy/component/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/target/classes/com/xjy/EurekaClientApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-client/target/classes/com/xjy/controller/DemoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/target/classes/com/xjy/EurekaRibbonClientApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/target/classes/com/xjy/config/RibbonConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/target/classes/com/xjy/controller/RibbonController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-ribbon-client/target/classes/com/xjy/service/RibbonService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/boot-admin-sample.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/boot-admin-sample.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,28 +49,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/admin-server/pom.xml">
+        <entry file="file://$PROJECT_DIR$/eureka-client-two/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/admin-client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="216">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-ribbon-client/src/main/java/com/xjy/service/RibbonService.java">
+        <entry file="file://$PROJECT_DIR$/admin-client/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="312">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -89,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin-server/src/main/java/com/xjy/AdminServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="312">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,11 +96,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin-server/src/main/java/com/xjy/component/SecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="168">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -205,8 +206,8 @@
         <option value="$PROJECT_DIR$/eureka-client-two/src/main/java/com/xjy/EurekaClientTwoApplication.java" />
         <option value="$PROJECT_DIR$/admin-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/admin-server/src/main/java/com/xjy/component/WebSecurityConfigurerAdapter.java" />
-        <option value="$PROJECT_DIR$/admin-server/src/main/java/com/xjy/component/SecurityConfig.java" />
         <option value="$PROJECT_DIR$/admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/admin-server/src/main/java/com/xjy/component/SecurityConfig.java" />
       </list>
     </option>
   </component>
@@ -225,16 +226,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="admin-client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="admin-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -265,61 +257,25 @@
             <path>
               <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
               <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
               <item name="admin-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
               <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-client" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
               <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-client" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
               <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -327,7 +283,7 @@
             <path>
               <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
               <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -336,7 +292,7 @@
             <path>
               <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
               <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -346,29 +302,24 @@
             <path>
               <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
               <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xjy" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="demoxjy" type="b2602c69:ProjectViewProjectNode" />
               <item name="demoxjy" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-ribbon-client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xjy" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka-client-two" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -380,7 +331,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -426,7 +376,7 @@
     </option>
     <option name="contentProportion" value="0.23268399" />
   </component>
-  <component name="RunManager" selected="Spring Boot.TurbineServiceApplication">
+  <component name="RunManager" selected="Spring Boot.AdminServerApplication">
     <configuration name="AdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="adminserver" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xjy.AdminServerApplication" />
@@ -612,8 +562,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.TurbineServiceApplication" />
-        <item itemvalue="Spring Boot.EurekaClientTwoApplication" />
         <item itemvalue="Spring Boot.EurekaClientOneApplication" />
+        <item itemvalue="Spring Boot.EurekaClientTwoApplication" />
         <item itemvalue="Spring Boot.GatewayServiceApplication" />
         <item itemvalue="Spring Boot.ConfigClientApplication" />
       </list>
@@ -642,7 +592,10 @@
       <workItem from="1560734976177" duration="1059000" />
       <workItem from="1560736070816" duration="14175000" />
       <workItem from="1560755879908" duration="1464000" />
-      <workItem from="1560757378585" duration="312000" />
+      <workItem from="1560757378585" duration="1240000" />
+      <workItem from="1560758653984" duration="350000" />
+      <workItem from="1560759026698" duration="520000" />
+      <workItem from="1560759616984" duration="1227000" />
     </task>
     <task id="LOCAL-00001" summary="6.10">
       <created>1560504008758</created>
@@ -651,11 +604,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560504008758</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="6.10">
+      <created>1560757734849</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560757734849</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61576000" />
+    <option name="totallyTimeSpent" value="64601000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -676,7 +636,7 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.195629" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.20202559" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3286334" />
@@ -715,13 +675,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="6.10" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/eureka-feign-client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -953,13 +906,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-client-two/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin-client/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1035,6 +981,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-client-two/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-client/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -1046,23 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin-server/src/main/java/com/xjy/AdminServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin-server/src/main/java/com/xjy/component/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -1093,17 +1043,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin-server/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/4.2.2.RELEASE/spring-security-config-4.2.2.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="59" column="20" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        <state relative-caret-position="168">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/admin-server/src/main/java/com/xjy/AdminServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin-server/src/main/java/com/xjy/component/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1157,7 +1120,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>eurekaribbonclient</last-edited>
+          <last-edited>adminserver</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
