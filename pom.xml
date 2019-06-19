@@ -23,6 +23,7 @@
         <module>admin-client</module>
         <module>eureka-client-two</module>
         <module>turbine-service</module>
+        <module>springboot-security</module>
     </modules>
 
     <parent>
